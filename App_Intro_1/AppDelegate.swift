@@ -18,6 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         // 최초실행 function
         
+        // UIScreen.main.scale
+        // UIScreen.main.bounds
         return true
     }
 
